@@ -2,7 +2,6 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import { ApolloClient } from '@apollo/client';
 import { ApolloProvider } from '@apollo/client/react';
-
 import { enableMapSet } from 'immer';
 import dayjs from 'dayjs';
 import updateLocale from 'dayjs/plugin/updateLocale';
